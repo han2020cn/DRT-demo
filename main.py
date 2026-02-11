@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import osmnx as ox
 import networkx as nx
 import numpy as np
